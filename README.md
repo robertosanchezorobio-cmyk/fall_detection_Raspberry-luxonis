@@ -180,9 +180,9 @@ Additional temporal hysteresis maintains the patient's identity during brief occ
 
 ![Enclosure](Images/encapsulado_completo.jpeg)
 
-### Generel conexion´s diagram
+### General conexion´s diagram
 
-![Generel conexion´s diagram](Images/Diagrama_alimentacion_conexiones.png)
+![General conexion´s diagram](Images/Diagrama_alimentacion_conexiones.png)
 
 ---
 
