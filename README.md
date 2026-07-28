@@ -2,7 +2,7 @@
 
 > Edge AI-based intelligent patient monitoring platform developed using Raspberry Pi, Luxonis OAK-1, YOLOv8-Pose and real-time motorized tracking for automated fall detection in healthcare environments.
 
-![Final Prototype](Images/Final_disign_1.jpg)
+![Final Prototype](Images/Montaje_Circuito.png)
 
 ---
 
@@ -179,6 +179,10 @@ Additional temporal hysteresis maintains the patient's identity during brief occ
 ### Enclosure
 
 ![Enclosure](Images/encapsulado_completo.jpeg)
+
+### Generel conexion´s diagram
+
+![Generel conexion´s diagram](Images/Diagrama_alimentacion_conexiones.png)
 
 ---
 
