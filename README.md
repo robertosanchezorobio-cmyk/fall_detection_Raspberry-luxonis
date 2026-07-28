@@ -228,7 +228,7 @@ The following flowchart summarizes the complete processing pipeline, including i
 
 To see the final computer vision system in action, watch the following video:
 
-[▶ Final_test_computer_vision.mp4](./Final_test_computer_vision.mp4)
+[▶ Final_test_computer_vision.mp4](Images/Final_test_computer_vision.mp4)
 ---
 
 ## Documentation
